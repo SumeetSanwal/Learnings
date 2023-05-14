@@ -23,7 +23,7 @@ Prevent packages or Python version conflicts when working with different project
 
 <h4> How to use a virtual environment? </h4>
 
-![Alt Text](Images/virtualenv_how_to_use.png)
+![Alt Text](../Images/virtualenv_how_to_use.png)
 
 
 <br/>

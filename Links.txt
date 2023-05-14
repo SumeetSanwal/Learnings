@@ -1,2 +1,0 @@
-Github Readme File CheatSheet : https://levelup.gitconnected.com/github-readme-cheatsheet-617dff61fa23
-Configure Poetry in Pycharm : https://www.jetbrains.com/help/pycharm/poetry.html
