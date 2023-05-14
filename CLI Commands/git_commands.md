@@ -22,7 +22,9 @@ http://git-scm.com/book/en/Git-Tools-Rewriting-History
 `git commit --amend -m 'message'`	alter the last commit (add any staged files, new comment)  
 `git reset --soft HEAD^`			undo previous commit, put changes in staging  
 `git reset --hard HEAD^`			Undo last commit and all changes  
-`git reset --hard HEAD^^`			Undo two (^^) last commits and all changes  
+`git reset --hard HEAD^^`			Undo two (^^) last commits and all changes
+`git reset --hard HEAD~1`           (where 1 is number of past commit you want to remove)
+`git push -f origin zd20047 `       (push to gitlab deleted commit)
 `git checkout -- cats.html index.html`	Undo all changes that were made to files cats.html and index.html  
 `git rebase --onto <commit-id>\^ <commit-id> HEAD`	remove specific commit from repository. the \ in \^ is just an escape   char to make zsh play nice and is not necessary if using bash.  
 
