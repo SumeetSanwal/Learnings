@@ -19,7 +19,7 @@
 - [ ] Avro vs Parquet : https://lnkd.in/gg-NcyNJ
 - [ ] Avro vs ORC vs Parquet file : https://lnkd.in/gizVx2Kw
 - [ ] what is serde : https://lnkd.in/gxDVFTQJ
-- [ ] Row based vs Column based file formats : https://lnkd.in/gN3vUsb6
+- [x] ~~Row based vs Column based file formats : https://lnkd.in/gN3vUsb6~~
 - [ ] Spark Interview Question : https://lnkd.in/fUD6skU
 - [ ] Scalability vs Availability & Low Latency vs High Latency : https://lnkd.in/gFkXxKns
 - [ ] Difference between Database vs Data lake vs Warehouse : https://lnkd.in/gS4kWruJ
