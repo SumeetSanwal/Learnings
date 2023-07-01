@@ -22,7 +22,7 @@
 - [x] ~~Row based vs Column based file formats : https://lnkd.in/gN3vUsb6~~
 - [ ] Spark Interview Question : https://lnkd.in/fUD6skU
 - [ ] Scalability vs Availability & Low Latency vs High Latency : https://lnkd.in/gFkXxKns
-- [ ] Difference between Database vs Data lake vs Warehouse : https://lnkd.in/gS4kWruJ
+- [x] ~~Difference between Database vs Data lake vs Warehouse : https://lnkd.in/gS4kWruJ~~
 
 <h3> Big Data Mock Interviews </h3>
 
