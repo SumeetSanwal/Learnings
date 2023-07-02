@@ -71,3 +71,26 @@
 
     * DNS service of AWS
     * Convert domain names to IP address.
+
+
+<h3> AWS Glue </h3>
+
+  * Fully managed ETL Service.
+  * Has spark ETL engine. 
+
+  * <h4> DATA CATALOGUE </h4>
+    
+    * Database [Metadata Storage] : 
+      * Tables : Holds Schema of tables.
+      * Connection : Holds connection details.
+      
+    * Partition : Separate based on date, data-type, location, etc for faster search.
+    * Crawlers : Automated crawlers to get schema of tables in data catalogue.
+    * Jobs : Automated ETL tools to generate script/jobs that perform ETL.
+
+
+
+<h3> Links </h3>
+
+* LinkedIn Course - [AWS Basics](https://www.linkedin.com/learning/instructors/hiroko-nishimura?u=77964786)
+* Youtube - [AWS Glue](https://www.youtube.com/watch?v=dQnRP6X8QAU&t=1080s)
