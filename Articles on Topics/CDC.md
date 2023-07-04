@@ -27,3 +27,6 @@
 <h3> Links </h3>
 
 * Article - [CDC](https://www.qlik.com/us/change-data-capture/cdc-change-data-capture#:~:text=Change%20data%20capture%20(CDC)%20refers,a%20downstream%20process%20or%20system.)
+* Article - [CDC](https://www.striim.com/blog/change-data-capture-cdc-what-it-is-and-how-it-works/)
+* Article - [CDC using Singer](https://www.startdataengineering.com/post/cdc-using-singer/)
+* Article - [CDC using Debezium](https://www.startdataengineering.com/post/change-data-capture-using-debezium-kafka-and-pg/)
