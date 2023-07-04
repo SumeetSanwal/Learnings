@@ -33,8 +33,10 @@
 
 <h3> Links </h3>
 
+* Article - [Data Warehouse & Lake](https://www.startdataengineering.com/post/data-lake-warehouse-diff/)
 * Article - [Datawarehouse & OLTP vs OLAP](https://www.startdataengineering.com/post/what-is-a-data-warehouse/)
 * Youtube - [DATABASE | DATA WAREHOUSE | DATA LAKE](https://www.youtube.com/watch?v=Nn7CFCQLKOs)
+* Article - [Data Warehouse & Lake](https://www.qlik.com/us/data-lake/data-lake-vs-data-warehouse)
 
 
 
