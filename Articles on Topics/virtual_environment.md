@@ -2,9 +2,9 @@
 
 <h4> Articles :</h4>
 
-* https://serpapi.com/blog/python-virtual-environments-using-virtualenv-and-poetry/
-* https://realpython.com/python-virtual-environments-a-primer/
-* https://www.the-analytics.club/virtualenv-alternative-for-python-dependency-management
+* [virtualenv vs poetry](https://serpapi.com/blog/python-virtual-environments-using-virtualenv-and-poetry/)
+* [virtual-environment](https://realpython.com/python-virtual-environments-a-primer/)
+* [poetry](https://www.the-analytics.club/virtualenv-alternative-for-python-dependency-management)
 
 
 <br/>
