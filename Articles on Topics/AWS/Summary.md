@@ -1,32 +1,32 @@
-<h3> Infra as a Service {Iaas} </h3>
+## Infra as a Service {Iaas} 
 
 * Rent virtual infrastructure from a cloud provider and pay for only whar you use.
 
 
-<h3> Identity and Access Management </h3>
+## Identity and Access Management 
 
 * Policies for access of various components on AWS.
 * This is used to specific access and permissions of user of the org.
 
 
-<h3> Cloud Watch Service </h3>
+## Cloud Watch Service 
 
 * Used for monitoring other services, set alarms and notifications. 
 
 
-<h3> Elastic Compute Cloud {EC2} </h3>
+## Elastic Compute Cloud {EC2} 
 
 * Amazon Machine Instance {AMI} - It is a virtual machine running on any of the physical hardware.
 * Auto scaling 
 
 
-<h3> Cloudfront </h3>
+## Cloudfront 
 
 * It's a CDN (content distribution network).
 * Replicates your S3 bucket in different regions to serve at better speed for users across globe.
 
 
-<h3> STORAGE </h3>
+## STORAGE 
 
 * <h4> Elastic Block Storage {EBS}</h4> 
   
@@ -37,7 +37,7 @@
     * Not as fast as EBS
     * Allows to share drive across several AMIs.
   
-* <h4> Simple Sotrage Service {S3}</h4>
+* <h4> Simple Storage Service {S3}</h4>
   
     * It is a file sharing service which doesn't require an AMI/compute to which it has to be connected to for sharing.
     * Slower than EFS and EBS.
@@ -48,7 +48,7 @@
     * When you have older data, but you don't want to delete it, it can be moved to S3 glacier.
     * Data pull takes alot of time, so put data which is not frequently used only.
 
-<h3> Network </h3>
+## Network 
 
 * <h4> Virtual Private Cloud {VPC} </h4>
 
@@ -73,7 +73,7 @@
     * Convert domain names to IP address.
 
 
-<h3> AWS Glue </h3>
+## AWS Glue 
 
   * Fully managed ETL Service.
   * Has spark ETL engine. 
@@ -90,7 +90,7 @@
 
 
 
-<h3> Links </h3>
+## Links 
 
 * LinkedIn Course - [AWS Basics](https://www.linkedin.com/learning/instructors/hiroko-nishimura?u=77964786)
 * Youtube - [AWS Glue](https://www.youtube.com/watch?v=dQnRP6X8QAU&t=1080s)
