@@ -1,6 +1,5 @@
 <h2> A complete roadmap to Big Data Engineering by Sumit Mittal </h2>
 
-
 <h3> Big Data Topics </h3>
 
 - [ ] Big Data Fundamentals : https://lnkd.in/fWZPWKP
@@ -15,13 +14,13 @@
 <h3> Interview Questions </h3>
 
 - [ ] partitioning vs bucketing : https://lnkd.in/gmbiKf3r
-- [ ] ORC vs Parquet file format : https://lnkd.in/gM2Q8Egg
-- [ ] Avro vs Parquet : https://lnkd.in/gg-NcyNJ
-- [ ] Avro vs ORC vs Parquet file : https://lnkd.in/gizVx2Kw
-- [ ] what is serde : https://lnkd.in/gxDVFTQJ
-- [x] ~~Row based vs Column based file formats : https://lnkd.in/gN3vUsb6~~
-- [ ] Spark Interview Question : https://lnkd.in/fUD6skU
 - [ ] Scalability vs Availability & Low Latency vs High Latency : https://lnkd.in/gFkXxKns
+- [ ] Spark Interview Question : https://lnkd.in/fUD6skU
+- [x] ~~what is serde : https://lnkd.in/gxDVFTQJ~~
+- [x] ~~ORC vs Parquet file format : https://lnkd.in/gM2Q8Egg~~
+- [x] ~~Avro vs Parquet : https://lnkd.in/gg-NcyNJ~~
+- [x] ~~Avro vs ORC vs Parquet file : https://lnkd.in/gizVx2Kw~~
+- [x] ~~Row based vs Column based file formats : https://lnkd.in/gN3vUsb6~~
 - [x] ~~Difference between Database vs Data lake vs Warehouse : https://lnkd.in/gS4kWruJ~~
 
 <h3> Big Data Mock Interviews </h3>
