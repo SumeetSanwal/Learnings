@@ -15,6 +15,7 @@
 
 * Schema evolution should happen in a way to allow backward and forward compatibility.
 
+* AVRO is quite matured at schema evolution but parquet just supports at the end i.e In parquet you can only delete and add new column from the end.
 
 ### Links 
 * [Schema Evolution](https://stackoverflow.com/questions/37644664/schema-evolution-in-parquet-format)
