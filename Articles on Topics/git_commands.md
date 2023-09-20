@@ -58,6 +58,13 @@ http://git-scm.com/book/en/Git-Tools-Rewriting-History
 `git remote prune origin`			clean up deleted remote branches (let's say someone else deleted a branch on the remote)  
 `git remote show origin`			show local<->remote branch tracking and sync status (duplicate info under "remote repositories")  
 
+### List all branch and owners 
+`git for-each-ref --format=' %(authorname) %09 %(refname)' --sort=authorname`
+
+### Delete Branch
+* `git push origin --delete somebranch`  Delete remote branch
+* `git branch -d branchname` Delete local branch 
+
 
 #### Push local branch to differently named remote branch. Eg Heroku only deploys master
 `git push heroku yourbranch:master`       simple form
@@ -79,4 +86,7 @@ http://git-annex.branchable.com/walkthrough/ #see ssh section
 `git annex copy --to myremote mybigfile` this command copies the actual content to myremote  
 `git annex drop mybigfile`  remove content from local repo  
 `git annex get mybigfile`   retrieve the content  
-`git annex copy --from myremote mybigfile`specify the remote from which to get the file  
+`git annex copy --from myremote mybigfile`specify the remote from which to get the file
+
+
+
