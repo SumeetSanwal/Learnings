@@ -1,6 +1,6 @@
 ## Infra as a Service {Iaas} 
 
-* Rent virtual infrastructure from a cloud provider and pay for only whar you use.
+* Rent virtual infrastructure from a cloud provider and pay for only what you use.
 
 
 ## Identity and Access Management 
