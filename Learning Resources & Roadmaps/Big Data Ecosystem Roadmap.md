@@ -13,9 +13,8 @@
 
 <h3> Interview Questions </h3>
 
-- [ ] partitioning vs bucketing : https://lnkd.in/gmbiKf3r
-- [ ] Scalability vs Availability & Low Latency vs High Latency : https://lnkd.in/gFkXxKns
-- [ ] Spark Interview Question : https://lnkd.in/fUD6skU
+- [x] ~~partitioning vs bucketing : https://lnkd.in/gmbiKf3r~~
+- [x] ~~Scalability vs Availability & Low Latency vs High Latency : https://lnkd.in/gFkXxKns~~
 - [x] ~~what is serde : https://lnkd.in/gxDVFTQJ~~
 - [x] ~~ORC vs Parquet file format : https://lnkd.in/gM2Q8Egg~~
 - [x] ~~Avro vs Parquet : https://lnkd.in/gg-NcyNJ~~
@@ -25,6 +24,7 @@
 
 <h3> Big Data Mock Interviews </h3>
 
+- [ ] Spark Interview Question : https://lnkd.in/fUD6skU
 - [ ] 5 Tips to prepare for Big Data Interviews : https://lnkd.in/gVcEjskn
 - [ ] 9 Big Data Mock Interviews Playlist : https://lnkd.in/g78x9KCa
 
