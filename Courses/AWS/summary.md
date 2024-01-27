@@ -28,22 +28,21 @@
 
 ## STORAGE 
 
-* <h4> Elastic Block Storage {EBS}</h4> 
-  
+* #### Elastic Block Storage {EBS}
     * Two or more AMI can't use the same EBS, so can't be used by multiple AMIs.
+    ![](../../Images/ebs.png)
 
-* <h4> Elastic File Storage </h4>
-    
+* #### Elastic File Storage 
     * Not as fast as EBS
     * Allows to share drive across several AMIs.
-  
-* <h4> Simple Storage Service {S3}</h4>
-  
+    ![](../../Images/efs.png)
+
+* #### Simple Storage Service {S3}
     * It is a file sharing service which doesn't require an AMI/compute to which it has to be connected to for sharing.
     * Slower than EFS and EBS.
+    ![](../../Images/s3.png)
 
-* <h4> S3 Glacier </h4>
-    
+* #### S3 Glacier 
     * Cheaper storage class in S3
     * When you have older data, but you don't want to delete it, it can be moved to S3 glacier.
     * Data pull takes alot of time, so put data which is not frequently used only.
