@@ -120,6 +120,7 @@
     <br/>
     <br/>
 
+
           
 
 
@@ -141,6 +142,40 @@
         * Jobs : Automated ETL tools to generate script/jobs that perform ETL.
 
 
+
+
 [//]: # (========================================NEXT MODULE==================================)
 
 ## 5. Data Processing
+
+  * ### Lambda Function
+    * Cloud function to do transformation. The function can be triggered based on different events. 
+  * ### AWS Lake Formation 
+    * Work on top of a number of other service like glue, emr, s3 to build a robust data lake.
+  * ### Map Reduce and Hadoop
+    * Hadoop 
+        ![](../../Images/hadoop.png)
+    * EMR - Elastic Map Reduce
+      * Worker nodes are EC2 instance (Elastic Cloud Compute)
+      * Storage used is S3
+
+
+
+
+
+[//]: # (========================================NEXT MODULE==================================)
+
+## 6. Analytics
+  * ### Amazon Analytics
+  * ### Amazon Opensearch
+    * It is successor of Elasticsearch.
+  * ### Redshift
+
+
+
+
+
+[//]: # (========================================NEXT MODULE==================================)
+
+## 7. Visualisation
+  * ### Quicksight
