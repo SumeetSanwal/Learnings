@@ -104,7 +104,6 @@
   <br/>
 
   * ### Type of Storage Options in AWS
-
     * #### Elastic Block Storage {EBS}
       * Two or more AMI can't use the same EBS, so can't be used by multiple AMIs.
       ![](../../Images/ebs.png)
@@ -118,9 +117,30 @@
         * It is a file sharing service which doesn't require an AMI/compute to which it has to be connected to for sharing.
         * Slower than EFS and EBS.
         ![](../../Images/s3.png)
+    <br/>
+    <br/>
 
+          
 
 
 [//]: # (========================================NEXT MODULE==================================)
 
 ## 4. Data Catalogue
+
+  * ### AWS Glue 
+
+    * Fully managed ETL Service.
+    * Has spark ETL engine. 
+
+    * #### DATA CATALOGUE
+      * Database [Metadata Storage] : 
+        * Tables : Holds Schema of tables.
+        * Connection : Holds connection details.
+        * Partition : Separate based on date, data-type, location, etc for faster search.
+        * Crawlers : Automated crawlers to get schema of tables into data catalogue.
+        * Jobs : Automated ETL tools to generate script/jobs that perform ETL.
+
+
+[//]: # (========================================NEXT MODULE==================================)
+
+## 5. Data Processing
