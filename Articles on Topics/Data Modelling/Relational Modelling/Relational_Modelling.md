@@ -12,3 +12,5 @@
 ### Relational Modeling Disadvantages
 - Analytical queries become slow at larger data scales.
 
+### Resource
+- [Relational Modelling Article](https://dataengineering.wiki/Concepts/Relational+Modeling)

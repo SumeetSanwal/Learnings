@@ -14,3 +14,7 @@
 
 ### Dimensional Modeling Disadvantages
 - Can be complicated to query sometimes.
+
+
+### Resource
+- [Dimesional Modelling Article](https://dataengineering.wiki/Concepts/Dimensional+Modeling)

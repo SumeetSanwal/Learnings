@@ -7,3 +7,8 @@
 
 
 - [Functional Dependencies](https://www.geeksforgeeks.org/types-of-functional-dependencies-in-dbms/)
+
+
+### Resource 
+- [Normalisation article](https://dataengineering.wiki/Concepts/Normalization)
+- [De-Normalisation article](https://dataengineering.wiki/Concepts/Denormalization)
