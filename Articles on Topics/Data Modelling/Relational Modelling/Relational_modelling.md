@@ -3,6 +3,7 @@
 - Each table denotes entities or subjects, while every row signifies individual records or instances belonging to that entity. 
 - These tables are connected via unique identifiers called foreign keys. Essentially, a foreign key is a column in a table that refers to the primary key of another table. 
 - A key component for relational modeling is [normalization](normalisation.md) (reduces data redundancy).
+- Inmon data modelling is a type of relational data modelling.
 
 ### Relational Modeling Advantages
 - Great for transactional/operational workloads where data is constantly inserted, updated, or deleted.
@@ -14,3 +15,4 @@
 
 ### Resource
 - [Relational Modelling Article](https://dataengineering.wiki/Concepts/Relational+Modeling)
+- [Inmon Data Modelling](https://www.codingninjas.com/studio/library/inmon-approach-in-data-warehouse-designing)

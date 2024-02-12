@@ -9,6 +9,10 @@
 - [Functional Dependencies](https://www.geeksforgeeks.org/types-of-functional-dependencies-in-dbms/)
 
 
+### Data Modelling & Normalisation in different systems(OLAP vs OLTP)
+![](../../../Images/normalisation_in_olap_vs_oltp.png)
+
+
 ### Resource 
 - [Normalisation article](https://dataengineering.wiki/Concepts/Normalization)
 - [De-Normalisation article](https://dataengineering.wiki/Concepts/Denormalization)
