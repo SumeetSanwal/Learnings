@@ -16,3 +16,4 @@
 ### Resource 
 - [Normalisation article](https://dataengineering.wiki/Concepts/Normalization)
 - [De-Normalisation article](https://dataengineering.wiki/Concepts/Denormalization)
+- [Normalisation Demo][https://www.youtube.com/watch?v=dsZy-2EJGec]
