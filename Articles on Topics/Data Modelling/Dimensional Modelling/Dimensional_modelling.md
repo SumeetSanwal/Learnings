@@ -21,3 +21,4 @@
 - [Data Modelling](https://www.youtube.com/watch?v=rSo8_soxKGw)
 - [Dimensional Data Modelling Demo](https://www.youtube.com/watch?v=gQisQHPhjwU)
 - [Inmon vs Kimball](https://www.youtube.com/watch?v=Tff34jj_V-0)
+- [Dimensional Modelling - Kimball](https://docs.getdbt.com/terms/dimensional-modeling)
