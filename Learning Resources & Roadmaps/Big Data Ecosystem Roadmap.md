@@ -2,14 +2,13 @@
 
 <h3> Big Data Topics </h3>
 
-- [ ] Big Data Fundamentals : https://lnkd.in/fWZPWKP
+- [x] ~~Big Data Fundamentals : https://lnkd.in/fWZPWKP~~
 - [ ] HDFS Architecture : https://lnkd.in/fNP7bf7
 - [ ] Mapreduce Fundamentals : https://lnkd.in/g457Wmv
 - [ ] Hive tutorial for Beginners : https://lnkd.in/gJpDMTfD
 - [ ] Introduction to Apache Spark : https://lnkd.in/gFRpe3-D
 - [ ] Spark Accumulator & Shared Variables : https://lnkd.in/geZQaV3Y
-- [ ] Big Data on AWS Cloud : https://lnkd.in/fBMf6Ac
-- [ ] Big Data Project Use case : https://lnkd.in/gFRpe3-D
+- [ ] Spark Hadoop on AWS : https://lnkd.in/fBMf6Ac
 
 <h3> Interview Questions </h3>
 
